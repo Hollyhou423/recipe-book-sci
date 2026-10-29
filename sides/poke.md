@@ -12,7 +12,10 @@
 - green onion
 - grated ginger
 - lime
+- hot spicy
 
 ## Instructions
 
 Mix ingredients in a bowl.
+
+
